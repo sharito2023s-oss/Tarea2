@@ -1,4 +1,4 @@
-Tarea 2# 🧠 Algoritmos de Búsqueda en Inteligencia Artificial
+# 🧠 Algoritmos de Búsqueda en Inteligencia Artificial
 
 ## 📖 Descripción General
 
